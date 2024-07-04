@@ -52,3 +52,4 @@ return tinku;
 let returnfnc=minku()
 returnfnc()
 // the ability of js engine to search variable in to the fxn even if it remove from the call stack is called closures
+//jssssss
