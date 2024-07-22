@@ -158,10 +158,10 @@ function isValidName(name) {
   }
   
   
-  console.log(isValidName("Alice"));  // Output: true
-  console.log(isValidName(""));       // Output: false
-  console.log(isValidName(null));     // Output: false
-  console.log(isValidName(undefined));// Output: false
+  console.log(isValidName("Alice"));  
+  console.log(isValidName(""));       
+  console.log(isValidName(null));     
+  console.log(isValidName(undefined));
   
 
 function calculateBonus(sales) {
@@ -171,15 +171,15 @@ function calculateBonus(sales) {
     }
     
     
-    const bonusPercentage = 0.1; // For example, 10%
+    const bonusPercentage = 0.1; 
     const bonus = sales * bonusPercentage;
     return bonus;
   }
   
  
-  console.log(calculateBonus(500));  // Output: 50
-  console.log(calculateBonus(0));    // Output: 0
-  console.log(calculateBonus(-100)); // Output: 0
+  console.log(calculateBonus(500));  
+  console.log(calculateBonus(0));    
+  console.log(calculateBonus(-100));  
   
   
 
