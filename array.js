@@ -165,3 +165,4 @@ let func=(...a)=>{
      }
  func(...arr)
  
+console.log("abbb");
